@@ -11,15 +11,11 @@
 
 # Demo
   Run the demo.py file from your cmd prompt<br />
-     nltkDemo>python demo.py<br />
-     
-      ![alt text](screenshots/1.png "run the file in cmd")
+     nltkDemo>python demo.py<br />     
+      <img src="/screenshots/1.PNG" alt="img 1"/>
       <br/>
-  The application waits for user question, once a question is given, it will process it and give its response.<br />
-  
-    ![alt text](screenshots/2.png "run the file in cmd")
-      <br/>
-  
+  The application waits for user question, once a question is given, it will process it and give its response.<br />  
+    <img src="/screenshots/2.PNG" alt="img 2"/>
  
   
   
