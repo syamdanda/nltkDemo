@@ -12,7 +12,16 @@
 # Demo
   Run the demo.py file from your cmd prompt<br />
      nltkDemo>python demo.py<br />
-  The application wauts for user question, once a question is given, it will process it and give its response.<br />
+     
+      ![alt text](screenshots/1.png "run the file in cmd")
+      <br/>
+  The application waits for user question, once a question is given, it will process it and give its response.<br />
+  
+    ![alt text](screenshots/2.png "run the file in cmd")
+      <br/>
+  
+ 
+  
   
  
     
