@@ -6,7 +6,7 @@
   *Howd'y<br /> 
 
 # Setup
-  Install Python 3.6
+  Install Python 3.6 <br/>
   pip install nltk
 
 # Demo
@@ -15,7 +15,10 @@
       <img src="/screenshots/1.PNG" alt="img 1"/>
       <br/>
   The application waits for user question, once a question is given, it will process it and give its response.<br />  
-    <img src="/screenshots/2.PNG" alt="img 2"/>
+    <img src="/screenshots/2.PNG" alt="img 2"/> <br/>
+    
+# Further Development
+  You can clone this repository and train/enhance further to identify more intentions.
  
   
   
