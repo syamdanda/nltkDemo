@@ -37,7 +37,7 @@ training_data.append({"class":"q3", "sentence":"Experience"})
 training_data.append({"class":"q3", "sentence":"Can I know your experience"})
 training_data.append({"class":"q3", "sentence":"May I know your experience"})
 
-#Certificate Intention
+#Location Intention
 training_data.append({"class":"q4", "sentence":"What's your location"})
 training_data.append({"class":"q4", "sentence":"Where do you stay"})
 training_data.append({"class":"q4", "sentence":"you are from"})
