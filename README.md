@@ -1,11 +1,8 @@
 # Find user's intention based on given Question
   This is a demo application created in Python on Natural Laguage Processing using nltk. The application asks user to enter his/her question, then process the question and give back the user's intention as a result. Currently below intentions were trained.
   
-  *Name<br />  
-  *Howd'y<br /> 
-  *Experience<br />
-  *Location<br />
-
+  *Name<br />*Howd'y<br />*Experience<br />*Location<br />
+  
 # Setup
   Install Python 3.6 <br/>
   pip install nltk
