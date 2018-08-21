@@ -3,8 +3,8 @@ import nltk
 from nltk.corpus import stopwords
 from nltk.stem.lancaster import LancasterStemmer
 
-#this download required only once
-nltk.download('punkt')
+#this download required only once, for first time remove the comment 
+#nltk.download('punkt')
 # word stemmer
 stemmer = LancasterStemmer()
 
@@ -107,8 +107,8 @@ def classify(sentence):
         if score > high_score:
             high_class = c
             high_score = score
-    # print(high_class)
-    # print(high_score)
+     print(high_class)
+     print(high_score)
     if high_class == 'q1':
     	print('your intention is to know the name');
     elif high_class == 'q2':
