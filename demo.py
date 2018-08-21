@@ -29,6 +29,7 @@ training_data.append({"class":"q2", "sentence":"hey how you doing"})
 training_data.append({"class":"q2", "sentence":"Are you ok"})
 training_data.append({"class":"q2", "sentence":"Hope you are doing good"})
 training_data.append({"class":"q2", "sentence":"is everything ok"})
+training_data.append({"class":"q2", "sentence":"what happen"})
 
 #Experience Intention
 training_data.append({"class":"q3", "sentence":"What's your experience"})
