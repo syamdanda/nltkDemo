@@ -32,18 +32,18 @@ training_data.append({"class":"How am I doing", "sentence":"is everything ok"})
 training_data.append({"class":"How am I doing", "sentence":"what happen"})
 
 #Experience Intention
-training_data.append({"class":"q3", "sentence":"What's your experience"})
-training_data.append({"class":"q3", "sentence":"How many years of experience you have"})
-training_data.append({"class":"q3", "sentence":"Experience"})
-training_data.append({"class":"q3", "sentence":"Can I know your experience"})
-training_data.append({"class":"q3", "sentence":"May I know your experience"})
+training_data.append({"class":"Experience", "sentence":"What's your experience"})
+training_data.append({"class":"Experience", "sentence":"How many years of experience you have"})
+training_data.append({"class":"Experience", "sentence":"Experience"})
+training_data.append({"class":"Experience", "sentence":"Can I know your experience"})
+training_data.append({"class":"Experience", "sentence":"May I know your experience"})
 
 #Location Intention
-training_data.append({"class":"q4", "sentence":"What's your location"})
-training_data.append({"class":"q4", "sentence":"Where do you stay"})
-training_data.append({"class":"q4", "sentence":"you are from"})
-training_data.append({"class":"q4", "sentence":"coming from"})
-training_data.append({"class":"q4", "sentence":"may I know where do you stay"})
+training_data.append({"class":"Location", "sentence":"What's your location"})
+training_data.append({"class":"Location", "sentence":"Where do you stay"})
+training_data.append({"class":"Location", "sentence":"you are from"})
+training_data.append({"class":"Location", "sentence":"coming from"})
+training_data.append({"class":"Location", "sentence":"may I know where do you stay"})
 
 # capture unique stemmed words in the training corpus
 corpus_words = {}
