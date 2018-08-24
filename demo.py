@@ -24,12 +24,12 @@ training_data.append({"class":"Name", "sentence":"can you say your name"})
 training_data.append({"class":"Name", "sentence":"By what name I can call you"})
 
 #How Doing Intention
-training_data.append({"class":"q2", "sentence":"How are you"})
-training_data.append({"class":"q2", "sentence":"hey how you doing"})
-training_data.append({"class":"q2", "sentence":"Are you ok"})
-training_data.append({"class":"q2", "sentence":"Hope you are doing good"})
-training_data.append({"class":"q2", "sentence":"is everything ok"})
-training_data.append({"class":"q2", "sentence":"what happen"})
+training_data.append({"class":"How am I doing", "sentence":"How are you"})
+training_data.append({"class":"How am I doing", "sentence":"hey how you doing"})
+training_data.append({"class":"How am I doing", "sentence":"Are you ok"})
+training_data.append({"class":"How am I doing", "sentence":"Hope you are doing good"})
+training_data.append({"class":"How am I doing", "sentence":"is everything ok"})
+training_data.append({"class":"How am I doing", "sentence":"what happen"})
 
 #Experience Intention
 training_data.append({"class":"q3", "sentence":"What's your experience"})
