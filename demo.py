@@ -107,18 +107,9 @@ def classify(sentence):
         if score > high_score:
             high_class = c
             high_score = score
-     print(high_class)
-     print(high_score)
-    if high_class == 'q1':
-    	print('your intention is to know the name');
-    elif high_class == 'q2':
-    	print( 'Your intention is to check how am I doing')
-    elif high_class == 'q3':
-        print( 'Your intention is to know the Experience')
-    elif high_class == 'q4':
-        print( 'Your intention is to know the Location')
-    else:
-    	print( 'Sorry not found your intention')
+     #print(high_class)
+     #print(high_score)
+    print('your intention is to know :: ', high_class);
 
 question = input("What is your question? \n")
 classify(question)
