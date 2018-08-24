@@ -12,16 +12,16 @@ stemmer = LancasterStemmer()
 training_data = []
 
 #Name intention
-training_data.append({"class":"q1", "sentence":"What is your name"})
-training_data.append({"class":"q1", "sentence":"Hi, What's your name"})
-training_data.append({"class":"q1", "sentence":"Hey, What is your name"})
-training_data.append({"class":"q1", "sentence":"By the way, What is your name"})
-training_data.append({"class":"q1", "sentence":"Can I know your name"})
-training_data.append({"class":"q1", "sentence":"May I know your name"})
-training_data.append({"class":"q1", "sentence":"Your name please"})
-training_data.append({"class":"q1", "sentence":"Could you tell me your name"})
-training_data.append({"class":"q1", "sentence":"can you say your name"})
-training_data.append({"class":"q1", "sentence":"By what name I can call you"})
+training_data.append({"class":"Name", "sentence":"What is your name"})
+training_data.append({"class":"Name", "sentence":"Hi, What's your name"})
+training_data.append({"class":"Name", "sentence":"Hey, What is your name"})
+training_data.append({"class":"Name", "sentence":"By the way, What is your name"})
+training_data.append({"class":"Name", "sentence":"Can I know your name"})
+training_data.append({"class":"Name", "sentence":"May I know your name"})
+training_data.append({"class":"Name", "sentence":"Your name please"})
+training_data.append({"class":"Name", "sentence":"Could you tell me your name"})
+training_data.append({"class":"Name", "sentence":"can you say your name"})
+training_data.append({"class":"Name", "sentence":"By what name I can call you"})
 
 #How Doing Intention
 training_data.append({"class":"q2", "sentence":"How are you"})
