@@ -96,6 +96,7 @@ def calculate_class_score_commonality(sentence, class_name, show_details=True):
                 print ("   match: %s (%s)" % (stemmer.stem(word.lower()), 1 / corpus_words[stemmer.stem(word.lower())]))
     return score
 
+
 def classify(sentence):
     high_class = None
     high_score = 0
